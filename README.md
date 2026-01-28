@@ -1,19 +1,19 @@
-# Jujodev | Juan Pierluisi
-## Lic. en Multimedia y Animación Digital con Cédula Profesional: 15323841
-### Desarrollador Full Stack | Base de Datos | GameDev | Technical Artist
+# Juan Pierluisi
+## Lic. en Multimedia y Animación Digital | Cédula Profesional: 15323841
+### Desarrollador Multimedia Full Stack | Desarrollador Back End | GameDev
 
 Con formación en TI y Tecnologías Multimedia 3D:
-* Desarrollo
-    * Base de Datos
-    * Web
-    * Software
-    * Videojuegos
-* Conocimientos básicos en:
-    * IoT
-    * Redes y ciberseguridad
-    * Administración de Proyectos
-    * Servicios en la Nube
-* Multimedia y especialidad en 3D
+* 🖥️ Desarrollo
+    * 🗂️ Base de Datos
+    * 🌐 Web
+    * ⚙️ Software
+    * 🎮 Videojuegos y Experiencias VR/AR
+* 🤓 Conocimientos básicos en:
+    * 🛜 IoT
+    * 🔏 Redes y ciberseguridad
+    * 📋 Administración de Proyectos
+    * ☁️ Servicios en la Nube 
+* 📽️ Multimedia y especialidad en 3D
 
 ## Sistemas Operativos
 [![SO](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
@@ -46,14 +46,3 @@ Con formación en TI y Tecnologías Multimedia 3D:
 ## Motores de Videojuegos
 [![GameDev](https://skillicons.dev/icons?i=unreal,unity,godot)](https://skillicons.dev)
 
-### Multimedia
-- Suite Adobe
-- DaVinci Ressolve
-- GIMP
-- Photopea
-- Canvas
-- 3DS Max
-- Maya
-- ZBrush
-- Substance Painter
-- Blender
