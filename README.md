@@ -14,7 +14,12 @@ Con formación en TI y Tecnologías Multimedia 3D:
     * 📋 Administración de Proyectos
     * ☁️ Servicios en la Nube 
 * 📽️ Multimedia y especialidad en 3D
-
+## Proyectos Destacados
+1. Portal para Cursos en Línea con Sistema Full Stack, PHP y MySQL
+2. Tienda en Línea con Prisma, MySQL, Node.js y JSON
+3. Programa para Registros y Monitoreo con C++ y Estructura de Datos
+4. Aplicación para filtros multimedia con .NET y librerías multimedia (FFMPEG)
+5. Aplicación CRUD con .NET y SQL Server
 ## Sistemas Operativos
 [![SO](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
 
