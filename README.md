@@ -11,11 +11,13 @@
 #### ⏱️ Disponibilidad
 * En búsqueda incorporarme en nuevos retos y crecimiento profesional.
 ### 🖥️ Proyectos Destacados
+* (Nota: Links en construcción)
 * Tienda en línea
 * App multimedia de filtros visuales
 * Juego Unreal
 
 ### 📖 Aprendizaje y ejercicios de código
-* Minimal API with .NET 10
-* Animations with HTML + CSS + JS
-* Data Queries SQL and NoSQL
+* Minimal API .NET 10 | [Link (Repo)](https://github.com/JuanPier1/Minimal-API)
+* Animations HTML/CSS/JS | [Link (Repo)](https://github.com/JuanPier1/Animaciones-HTML-CSS-JS) / [Link (Web)](https://juanpier1.github.io/Animaciones-HTML-CSS-JS/animacionesCSS.html)
+* Database Queries SQL/NoSQL | [Link (Repo)](https://github.com/JuanPier1/DB-Queries)
+* Ejercicios C++ | [Link (Repo)](https://github.com/JuanPier1/Ejercicios-Cplusplus)
