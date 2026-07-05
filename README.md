@@ -12,12 +12,12 @@
 * En búsqueda incorporarme en nuevos retos y crecimiento profesional.
 ### 🖥️ Proyectos Destacados
 * (Nota: Links en construcción)
-* Tienda en línea
+* Tienda en línea - MexShop | [Demo](https://mexshop-lg5fwaejt-jujodev.vercel.app/) | [Repositorio](https://github.com/JuanPier1/TiendaWeb)
 * App multimedia de filtros visuales
 * Juego Unreal
 
 ### 📖 Aprendizaje y ejercicios de código
-* Minimal API .NET 10 | [Link (Repo)](https://github.com/JuanPier1/Minimal-API)
-* Animations HTML/CSS/JS | [Link (Repo)](https://github.com/JuanPier1/Animaciones-HTML-CSS-JS) / [Link (Web)](https://juanpier1.github.io/Animaciones-HTML-CSS-JS/animacionesCSS.html)
-* Database Queries SQL/NoSQL | [Link (Repo)](https://github.com/JuanPier1/DB-Queries)
-* Ejercicios C++ | [Link (Repo)](https://github.com/JuanPier1/Ejercicios-Cplusplus)
+* Minimal API .NET 10 | [Repositorio](https://github.com/JuanPier1/Minimal-API)
+* Animations HTML/CSS/JS | [Repositorio](https://github.com/JuanPier1/Animaciones-HTML-CSS-JS) / [Link (Web)](https://juanpier1.github.io/Animaciones-HTML-CSS-JS/animacionesCSS.html)
+* Database Queries SQL/NoSQL | [Repositorio](https://github.com/JuanPier1/DB-Queries)
+* Ejercicios C++ | [Repositorio](https://github.com/JuanPier1/Ejercicios-Cplusplus)
