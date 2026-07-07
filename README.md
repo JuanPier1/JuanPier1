@@ -13,7 +13,7 @@
 ### 🖥️ Proyectos Destacados
 * (Nota: Links en construcción)
 * Tienda en línea - MexShop | [Demo](https://mexshop-lg5fwaejt-jujodev.vercel.app/) | [Repositorio](https://github.com/JuanPier1/TiendaWeb)
-* App multimedia de filtros visuales
+* App multimedia de filtros visuales - InstaColor | [Release](https://github.com/JuanPier1/InstaColor/releases/tag/v1.0) | [Repositorio](https://github.com/JuanPier1/InstaColor)
 * Juego Unreal
 
 ### 📖 Aprendizaje y ejercicios de código
